@@ -6,12 +6,10 @@ This is a product card component inspired by the product card challenge at Front
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+  - [What I learned](#what-i-learned) 
   - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Author](#author)
 
 ## Overview
 
