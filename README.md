@@ -22,11 +22,6 @@ Users should be able to:
 - View a responsive product card that fits to the appropriate screen size
 - Toggle between two variants of the same product 
 
-### Screenshot
-
-![Design preview for the Product preview card component coding challenge](./design/Screenshot%202023-02-16%20121921.png)
-
-
 ## Solution
 
 - Used the challenge as a very rough reference and ended up significantly altering the design and built a solution for a product card featuring a wallet brand. 
