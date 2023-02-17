@@ -10,8 +10,8 @@ const product = {
   sku: [
     {
       id: 1,
-      imageSrcMobile: "/wallet-orange-mobile.png",
-      imageSrcDesktop: "/wallet-orange-desktop.png",
+      imageSrcMobile: "assets/wallet-orange-mobile.png",
+      imageSrcDesktop: "assets/wallet-orange-desktop.png",
       imageAlt: "Tan Leather Wallet",
       primary: true,
       name: "Tan Leather",
@@ -20,8 +20,8 @@ const product = {
     },
     {
       id: 2,
-      imageSrcMobile: "/wallet-green-mobile.png",
-      imageSrcDesktop: "/wallet-green-desktop.png",
+      imageSrcMobile: "assets/wallet-green-mobile.png",
+      imageSrcDesktop: "assets/wallet-green-desktop.png",
       imageAlt: "Green Leather Wallet",
       primary: false,
       name: "Moss Green",
